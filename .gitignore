@@ -1,0 +1,5 @@
+build/
+out/
+scratch/
+validation/
+*.exe
